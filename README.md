@@ -7,3 +7,8 @@ In addition to its basic functionality, the Python Calculator also includes a sc
 The calculator is designed to be user-friendly, with a clear and intuitive interface that makes it easy for users of all levels to perform calculations quickly and accurately. 
 
 It is also customizable, with the ability to add additional features or modify the existing ones to suit the user's needs.  Overall, the Python Calculator is a powerful and versatile tool that can be used for a wide range of mathematical calculations, from simple arithmetic to complex scientific functions.
+
+
+Note!
+
+For Exponents use '~' and not '^' since the code is designed to do the exponent calcuation through '~' symbol and not '^' so unless you want to get an error don't use it, or you can modify the code
